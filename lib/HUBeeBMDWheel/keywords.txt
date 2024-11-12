@@ -1,0 +1,8 @@
+HUBeeBMDWheel	KEYWORD1
+setBrakeMode	KEYWORD2
+stopMotor	KEYWORD2
+setStandbyMode	KEYWORD2
+setDirectionMode	KEYWORD2
+getDirectionMode	KEYWORD2
+setMotorPower	KEYWORD2
+getMotorPower	KEYWORD2
